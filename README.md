@@ -11,7 +11,7 @@ To join the Sigmanaut Program, you have **two options**:
 2. **Contact a Sigmanaut directly**:  
        - Preferred: [@rustinmyeye](https://t.me/rustinmyeye) on Telegram  
        - Email: sigmanauts@protonmail.com  
-       - Any other Sigmanaut (see our Contact page)
+       - Any other Sigmanaut (see our [Contact page](https://sigmanauts.com/contact/))
 
 Thank you for your enthusiasm and support!
 
