@@ -1,6 +1,6 @@
 name: Sigmanaut Application
 description: "Apply to become an Ergo Sigmanaut"
-title: "[Ambassador Application]: "
+title: "[Sigmanaut Application]: "
 labels: ["application", "ambassador"]
 body:
   - type: input
