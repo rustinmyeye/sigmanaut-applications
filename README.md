@@ -9,7 +9,7 @@ To join the Sigmanaut Program, you have **two options**:
 1. **Use the GitHub Issue Form** in this repository.  
    - You can fill out **as much or as little of the form as you like** — every bit of information helps us understand your interests and availability.
 2. **Contact a Sigmanaut directly**:  
-       - Preferred: @rustinmyeye on Telegram  
+       - Preferred: [@rustinmyeye](https://t.me/rustinmyeye) on Telegram  
        - Email: sigmanauts@protonmail.com  
        - Any other Sigmanaut (see our Contact page)
 
