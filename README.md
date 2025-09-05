@@ -34,7 +34,7 @@ The Sigmanaut team will review it and follow up with you.
 ---
 
 ## Notes
-- Make sure you are a member of the [Ergo Discord server](https://discord.com/invite/ergo-platform-668903786361651200).
+- Make sure you are a member of the [Ergo Discord server](https://discord.com/invite/ergo-platform-668903786361651200), or the [Ergo Telegram](https://t.me/Ergo_Chats). 
 - Please provide a valid **Ergo address** if you would like to be considered for rewards or recognition.
 - All applications submitted via GitHub are public by default.  
   If you prefer private communication, you can contact a Sig directly.
