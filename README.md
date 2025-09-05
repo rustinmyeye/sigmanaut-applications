@@ -17,7 +17,7 @@ Thank you for your enthusiasm and support!
 
 ---
 
-## 📌 How to Apply via GitHub
+## How to Apply via GitHub
 
 Feel free to use **GitHub Issue Forms** to apply. This provides a structured way to submit your information, while still allowing flexibility in how much you share.
 
@@ -33,7 +33,7 @@ The Sigmanaut team will review it and follow up with you.
 
 ---
 
-## 💡 Notes
+## Notes
 - Make sure you are a member of the [Ergo Discord server](https://discord.com/invite/ergo-platform-668903786361651200).
 - Please provide a valid **Ergo address** if you would like to be considered for rewards or recognition.
 - All applications submitted via GitHub are public by default.  
@@ -41,6 +41,6 @@ The Sigmanaut team will review it and follow up with you.
 
 ---
 
-## 🙌 About the Sigmanaut Program
+## About the Sigmanaut Program
 The Sigmanaut Program is a grassroots initiative supporting the growth and adoption of Ergo.  
 By joining, you become part of a global network of ambassadors, creators, translators, and advocates who are passionate about advancing the Ergo ecosystem.
